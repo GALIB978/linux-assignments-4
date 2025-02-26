@@ -43,6 +43,15 @@ def hello_world():
 
 
 
+# Part 2: Linux Exercise
+
+1. **Open a Linux terminal.**
+
+2. **Create a new directory named `markdown_linux_assignment`:**
+
+```bash
+mkdir markdown_linux_assignment
+
 
 
 
