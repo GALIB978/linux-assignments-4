@@ -13,9 +13,11 @@ Class ID: BEIRP24A6
 
 ## Markdown examples
 
-**Bold and italic text**  
-**This is italic** and **this is bold**.  
-You can also combine them: ***This is bold and italic***
+*Italic text* or _Italic text_
+
+**Bold text** or __Bold text__
+
+***Bold and Italic text*** or ___Bold and Italic text___
 
 **Links**  
 [Link text](https://example.com)
@@ -35,6 +37,7 @@ def hello_world():
 
 
 **Image**
+
 ![Alt text](https://via.placeholder.com/150)
 
 
