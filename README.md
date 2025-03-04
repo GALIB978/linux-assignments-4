@@ -1,67 +1,41 @@
 # Markdown and Linux Exercise
 
-
 ## Author
-Name: Galib Bin Mahamud 
+Galib Bin Mahamud
 Class ID: BEIRP24A6
 
 ## Content
-- Introduction to Markdown
-- Markdown syntax basics
-- Introduction to Linux
-- Basic commands
+* Introduction to Markdown
+* Markdown Syntax Basics
+* Introduction to Linux
+* Basic Commands
 
-## Markdown examples
+## Markdown Examples
 
-*Italic text* or _Italic text_
+### Bold and Italic Text
+This text is **bold**
+This text is *italic*
+This is both ***bold and italic***
+Here's another way to write **bold text**
 
-**Bold text** or __Bold text__
-
-***Bold and Italic text*** or ___Bold and Italic text___
-
-**Links**  
-[Link text](https://example.com)
-
-**Code block**  
-```python
-def hello_world():
-    print("Hello, World!")
+### Links
+[GitHub Homepage](https://github.com)
+### Code Block
+```
+ls -la       
+cd Documents    
+mkdir NewFolder 
+touch file.txt  
 ```
 
-**Table**
+### Table
+| Command | Description | Example |
+|---------|-------------|---------|
+| ls | List directory | `ls -la` |
+| cd | Change directory | `cd /home` |
+| mkdir | Create directory | `mkdir test` |
+| rm | Remove files/directories | `rm file.txt` |
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
-
-
-**Image**
-
-![Alt text](https://via.placeholder.com/150)
-
-
-
-
-# Part 2: Linux Exercise
-
- 1. **Open a Linux terminal.**
-
- 2. **Create a new directory named `markdown_linux_assignment`:**
-
-```bash
-mkdir markdown_linux_assignment
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Images
+![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
